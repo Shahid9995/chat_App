@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352154963960",
+    "project_id": "flashchat-b9378",
+    "storage_bucket": "flashchat-b9378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352154963960:android:2635bb1393612634dc900d",
+        "android_client_info": {
+          "package_name": "co.shahid.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352154963960-v25v4e4m98n6be7d4i2d4rmp19bs3su0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5E1oRu3KKwTEqbQ8cQLtH2t6urUX0kjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352154963960-v25v4e4m98n6be7d4i2d4rmp19bs3su0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352154963960:android:885a7fbaf3be8729dc900d",
+        "android_client_info": {
+          "package_name": "com.shahid.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352154963960-v25v4e4m98n6be7d4i2d4rmp19bs3su0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5E1oRu3KKwTEqbQ8cQLtH2t6urUX0kjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352154963960-v25v4e4m98n6be7d4i2d4rmp19bs3su0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
