@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(FlashChat());
+  runApp(const FlashChat());
 }
 
 class FlashChat extends StatelessWidget {
@@ -26,7 +26,7 @@ class FlashChat extends StatelessWidget {
       routes:{
         WelcomeScreen.id:(context)=>const WelcomeScreen(),
         LoginScreen.id:(context)=>const LoginScreen(),
-        RegistrationScreen.id:(context)=>RegistrationScreen(),
+        RegistrationScreen.id:(context)=>const RegistrationScreen(),
         ChatScreen.id:(context)=>ChatScreen(),
       },
     );
